@@ -7,7 +7,7 @@ of this so the code is sloppy and there is unfortunately a couple spots that req
 this all in the future.
 
 To run:
-1. python conv.py <fb HTML data> > <txt file>
-2. python talker.py <# sentences> [-c] <txt file from above> 
+1. python conv.py \<fb HTML data\> \> \<txt file\>
+2. python talker.py <# sentences> [-c] \<txt file from above\> 
 
 The '-c' tag allows for custom beginnings to the sentences which are hard coded. 
